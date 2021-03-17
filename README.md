@@ -1,7 +1,8 @@
 # ICSK Amman - Farewell Stuff
 [Click to download]: https://transfer.sh/get/2Rq6j/pptxvid.mp4
 
-## Notes to read before downloading the video (you can scroll the notes grey box _sideways_ to read fully):
+## Notes to read before downloading the video:
+#### (you can scroll the notes grey box _sideways_ to read fully if you are on mobile)
  
 ``` 
 o- This video is converted from pptx to mp4 format, so it contains 
