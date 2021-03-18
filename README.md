@@ -19,7 +19,7 @@ o- Update 8 AM 18/03 > Caleb changed background pics and font. The updated video
 o- This video is converted from pptx to mp4 format, so it contains 
    all animation, transititons and photos.
    
-o- The video file size is around 440 MB.
+o- The video file size is around 450 MB.
 
 o- This video *does not* have any audio or video yet, as it took time 
    till night 11.40pm to convert and upload the video, so I will edit tmrw 
