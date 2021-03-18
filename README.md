@@ -3,7 +3,7 @@
 <br/>
 
 ## Updates on the video:
-#### (you can scroll the updates grey box _sideways_ to read fully if you are on mobile)
+##### (you can scroll the updates grey box _sideways_ to read fully if you are on mobile)
 
 ```
 o- Update 8 AM 18/03 > Caleb changed background pics and font.
