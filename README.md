@@ -6,7 +6,8 @@
 #### (you can scroll the updates grey box _sideways_ to read fully if you are on mobile)
 
 ```
-o- Update 8 AM 18/03 > Caleb changed background pics and font. The updated video is now here.
+o- Update 8 AM 18/03 > Caleb changed background pics and font.
+o- Update 5.40 PM 18/03 > Made the names in sticky notes Bold and underlined. The updated video is now here.
 
 ```
 
@@ -31,7 +32,7 @@ o- Please keep in mind that now its a video, so i can increase or decrease time
 
 <br/>
 
-[Click to download]: https://transfer.sh/get/v2Ydj/Trip%20Down%20The%20Memory%20Lane.mp4
+[Click to download]: https://transfer.sh/get/DJNNv/memries.mp4
 
 ## **The link for the pptx converted video** --> *[Click to download]*
 
