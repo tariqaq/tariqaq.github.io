@@ -1,8 +1,19 @@
-# ICSK Amman - Farewell Stuff
-[Click to download]: https://transfer.sh/get/2Rq6j/pptxvid.mp4
+# ICSK Amman - Farewell PPTX Video
+
+<br/>
+
+## Updates on the video:
+#### (you can scroll the updates grey box _sideways_ to read fully if you are on mobile)
+
+```
+o- Update 8 AM 18/03 > Caleb changed background pics and font. The updated video is now here.
+
+```
+
+<br/>
 
 ## Notes to read before downloading the video:
-#### (you can scroll the notes grey box _sideways_ to read fully if you are on mobile)
+##### (you can scroll the notes grey box _sideways_ to read fully if you are on mobile)
  
 ``` 
 o- This video is converted from pptx to mp4 format, so it contains 
@@ -18,9 +29,10 @@ o- Please keep in mind that now its a video, so i can increase or decrease time
    between each slide while editing *with ease* 
 ``` 
 
-___________________________________________________________________________________________________________
+<br/>
 
+[Click to download]: https://transfer.sh/get/v2Ydj/Trip%20Down%20The%20Memory%20Lane.mp4
 
-**The link for the pptx converted video** --> *[Click to download]*
+## **The link for the pptx converted video** --> *[Click to download]*
 
 
