@@ -18,7 +18,7 @@ o- Update 4 PM 20/03 > Huge Update. Added bg music, audio, teachers and students
 ##### (you can scroll the notes grey box _sideways_ to read fully if you are on mobile)
  
 ```    
-o- This is video was last updated on 20/03/2021.
+o- This video was last updated on 20/03/2021.
 o- The video file size is around 900 MB.
 o- This video is around 16 mins.
 o- Waiting for review of this video.
