@@ -27,6 +27,6 @@ o- Waiting for review of this video.
 
 <br/>
 
-[Click to download]: https://master.dl.sourceforge.net/project/amantrya/Final_Vid_20.03.2021/finalvid.mp4?viasf=1
+[Click to download]: https://jztkft.dl.sourceforge.net/project/amantrya/Final_Vid_20.03.2021/finalvid.mp4
 
 ## **The link for the pptx converted video** --> *[Click to download]*
