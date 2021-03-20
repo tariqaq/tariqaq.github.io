@@ -7,10 +7,9 @@
 
 ```
 o- Update 8 AM 18/03 > Caleb changed background pics and font.
-o- Update 5.40 PM 18/03 > Made the names in sticky notes Bold and underlined. The updated video is now here.
-o- Update 4 PM 20/03 > Huge Update. Added bg music, audio, teachers and students video. No issues so far. 
-                       Also changed file hosting website to SourceForge for better download speeds.
-                       (Before - 2 MB/s | After - 5 MB/s for me)
+o- Update 5.40 PM 18/03 > Made the names in sticky notes Bold and underlined. 
+o- Update 4 PM 20/03 > Huge Update. Added bg music, audio, teachers and students video. No issues so far. The updated video is now here.
+                       Also changed file hosting website to SourceForge for better download speeds. (Before - 2 MB/s | After - 5 MB/s for me)
 ```
 
 <br/>
