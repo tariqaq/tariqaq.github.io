@@ -33,4 +33,4 @@ o- This video is complete. (fully edited)
 [Click to view video]: https://www.dropbox.com/s/xtzsnka8nihee96/farewellfinaledited.mp4?dl=0
 
 ### **THe link for viewing the farewell PPTX video** --> *[Click to view video]*
-### **The link for downloading the farewell PPTX video** --> *[Click to download]*
+### **The link for downloading the farewell PPTX video** --> *[Click to download video]*
