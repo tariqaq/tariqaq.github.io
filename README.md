@@ -35,5 +35,5 @@ o- This video is complete. (fully edited)
 <br/>
 
 ## Keep in mind for viewing the video, dropbox limited the video to 15 minutes, However when downloading the video, it wont be limited.
-### **The link for viewing the farewell PPTX video** --> *[Click to view video]*
-### **The link for downloading the farewell PPTX video** --> *[Click to download video]*
+### **The link for viewing the farewell PPTX video(15min limit)** --> *[Click to view video]*
+### **The link for downloading the farewell PPTX video(no limit)** --> *[Click to download video]*
