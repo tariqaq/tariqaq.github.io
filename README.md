@@ -29,22 +29,22 @@ o- This video is complete. (fully edited)
 
 <br/>
 
-[Click to download video14]: https://www.dropbox.com/s/xtzsnka8nihee96/farewellfinaledited.mp4?dl=1
-[Click to view video14]: https://www.dropbox.com/s/xtzsnka8nihee96/farewellfinaledited.mp4?dl=0
+[Click to download video 1440p]: https://www.dropbox.com/s/xtzsnka8nihee96/farewellfinaledited.mp4?dl=1
+[Click to view video 1440p]: https://www.dropbox.com/s/xtzsnka8nihee96/farewellfinaledited.mp4?dl=0
 
-[Click to download video72]: https://www.dropbox.com/s/9hb16rue8qj77x9/reminesencefinal720p.mp4?dl=1
-[Click to view video72]: https://www.dropbox.com/s/9hb16rue8qj77x9/reminesencefinal720p.mp4?dl=0
+[Click to download video 720p]: https://www.dropbox.com/s/9hb16rue8qj77x9/reminesencefinal720p.mp4?dl=1
+[Click to view video 720p]: https://www.dropbox.com/s/9hb16rue8qj77x9/reminesencefinal720p.mp4?dl=0
 
 <br/>
 
 ## Keep in mind for viewing the video, dropbox limited the video to 15 minutes, However when downloading the video, it wont be limited.
 
 ### 1440p resolution -
-#### **The link for viewing the farewell PPTX video(15min limit)** --> *[Click to view video14]*
-#### **The link for downloading the farewell PPTX video(no limit)** --> *[Click to download video14]*
+#### **The link for viewing the farewell PPTX video(15min limit)** --> *[Click to view video 1440p]*
+#### **The link for downloading the farewell PPTX video(no limit)** --> *[Click to download video 1440p]*
 
 <br/>
 
 ### 720p resolution - 
-#### **The link for viewing the farewell PPTX video(15min limit)** --> *[Click to view video72]*
-#### **The link for downloading the farewell PPTX video(no limit)** --> *[Click to download video72]*
+#### **The link for viewing the farewell PPTX video(15min limit)** --> *[Click to view video 720p]*
+#### **The link for downloading the farewell PPTX video(no limit)** --> *[Click to download video 720p]*
