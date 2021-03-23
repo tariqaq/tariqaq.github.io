@@ -39,12 +39,12 @@ o- This video is complete. (fully edited)
 
 ## You dont need to sign in Dropbox to view or save/download the video. If it asks to sign in, click x button on top. Keep in mind for viewing the video, dropbox limited the video to 15 minutes, However when downloading the video, it wont be limited.
 
-### 1440p resolution -
+### 1440p resolution (1.16 GB) -
 #### **The link for viewing the farewell PPTX video(15min limit)** --> *[Click to view video 1440p]*
 #### **The link for downloading the farewell PPTX video(no limit)** --> *[Click to download video 1440p]*
 
 <br/>
 
-### 720p resolution - 
+### 720p resolution (430 MB)- 
 #### **The link for viewing the farewell PPTX video(15min limit)** --> *[Click to view video 720p]*
 #### **The link for downloading the farewell PPTX video(no limit)** --> *[Click to download video 720p]*
