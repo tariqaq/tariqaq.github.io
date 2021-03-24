@@ -37,7 +37,7 @@ o- This video is complete. (fully edited)
 
 <br/>
 
-`You dont need to sign in Dropbox to view or save/download the video. If it asks to sign in, click x button on top. Keep in mind for viewing the video, dropbox limited the video to 15 minutes, However when downloading the video, it wont be limited.`
+`You dont need to sign in Dropbox to save/download the video. If it asks to sign in, click x button on top.`
 
 ### 720p resolution (430 MB)- 
 #### **The link for downloading the farewell PPTX video** --> *[Click to download video 720p]*
